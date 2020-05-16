@@ -1,5 +1,3 @@
-
-```lua
 --[[
 Prepare for a buncha GNU General Public License v3.0 Stuff
 Permissions:
@@ -722,4 +720,3 @@ print("/// 🔨 | 🕐 - Putting Script in SERVERSCRIPTSERVICE and running.")
 game.ServerStorage.SHAREASESTS.SharedAssests.Parent = game.ServerScriptService
 game.ServerScriptService.SharedAssests.Disabled = false
 print("/// 🔨 | ✅ - Script Running")
-```
